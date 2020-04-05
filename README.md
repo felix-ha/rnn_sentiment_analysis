@@ -9,5 +9,5 @@ In the [notebook](https://github.com/felix-ha/rnn_sentiment_analysis/blob/master
 
 The final [website](https://github.com/felix-ha/rnn_sentiment_analysis/blob/master/index.html) is not working, because the endpoint is not deployed on AWS anymore.
 
-This project was part of the Udacity Machine Learning Eningeer Nanodegree.
+This project was part of the Udacity Machine Learning Engineer Nanodegree.
 
